@@ -1,4 +1,4 @@
-# simple-hello-world-example
+# adapter-react-scrollbar
 A adapter react scrollbar for Chome, FireFox, Safari, Edge
 
 ## Installation
